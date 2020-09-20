@@ -151,6 +151,8 @@ void testUpCast(){
      */
     pfather = pson;
     pfather->display();     // Father: 999
+
+    delete pfather, pson;
 }
 
 /**
@@ -230,6 +232,7 @@ private:
 void testAbstractClass() {
     Polygon* ptr = new Rectangle(3, 4);
     cout << ptr->area() << endl;
+    delete ptr;
 };
 
 
