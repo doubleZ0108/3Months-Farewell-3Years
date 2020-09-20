@@ -6,6 +6,8 @@
 //  Copyright © 2020 double Z. All rights reserved.
 //
 #include <iostream>
+#include <string>
+#include <utility>
 using namespace std;
 
 /**
@@ -151,11 +153,93 @@ void testUpCast(){
     pfather->display();     // Father: 999
 }
 
+/**
+ * Knowledge of Polymorphism
+ * virtual
+ *  - 只需在基类中声明虚函数，派生类中同名函数会自动变成virtual
+ *  - 函数原型需要相同才可以构成多态
+ *  - 构造函数不能是虚函数，构造函数不会被继承
+ *  - 析构函数（有时）必须声明为虚函数
+ *      - 当delete基类指针时，如果non-virtual，则只会调用基类的析构函数，造成派生类对象不完全析构
+ *      - 如果析构函数为virtual的话，delete基类指针时就会调用派生类的析构函数，而派生类的析构函数又会自动调基类的析构函数
+ *  - 如果某函数在基类中，日后被继承后有可能改变他的功能，则需要将它设置为virtual
+ */
+class People {
+public:
+    People() {}
+    People(string name, int age): _name(std::move(name)), _age(age) {}
+
+    // 虚函数构成多态，可以使用基类指针访问派生类的方法和属性
+    virtual void display() {
+        cout << "I am a People " << _name << " and " << _age << " years old" << endl;
+    }
+protected:
+    string _name;
+    int _age;
+};
+
+class Student : public People {
+public:
+    Student() {}
+    Student(string name, int age, float score): People(name, age), _score(score) {}
+
+    void display() {
+        cout << "I am a Student " << _name << " and " << _age << " years old"
+            << "and my score is " << _score << endl;
+    }
+private:
+    float _score;
+};
+
+void testPolymorphism(){
+    People* ptr = new People("zz", 20);
+    ptr->display();
+    delete ptr;
+
+    ptr = new Student("yoyo", 23, 95.5);
+    ptr->display();
+    delete ptr;
+}
+
+
+/**
+ * Knowledge of Abstract Class
+ * - 基类只实现部分功能，谁派生谁扩展，但是基类必须实现我规定的纯虚函数，才可以被实例化
+ * - 虽然抽象基类不能被实例化，但是可以用基类指针实现多态
+ * - 普通成员函数不可以=0，必须是virtual才可以是纯虚
+ */
+class Polygon {
+public:
+    Polygon() {}
+    virtual double area() = 0;
+};
+
+class Rectangle : public Polygon {
+public:
+    Rectangle() {}
+    Rectangle(int width, int height): _width(width), _height(height) {}
+
+    double area(){
+        return this->_height * this->_width;
+    }
+private:
+    int _width;
+    int _height;
+};
+
+void testAbstractClass() {
+    Polygon* ptr = new Rectangle(3, 4);
+    cout << ptr->area() << endl;
+};
+
+
 int main(){
 //    testBasicClassConcept();
 //    testInheritanceDerived();
 
-    testUpCast();
+//    testUpCast();
+//    testPolymorphism();
+    testAbstractClass();
 
     return 0;
 }
