@@ -20,7 +20,7 @@
 >
 > https://github.com/doubleZ0108/IDEA-Lab-Summer-Camp
 
-## 浙大计算机推免流程
+## 浙大人工智能推免流程
 
 1. 浙大系统中填报信息（夏令营填报过可以直接读取）
 
