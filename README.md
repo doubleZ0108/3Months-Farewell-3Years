@@ -17,3 +17,23 @@
 - [中国科学技术大学先进技术研究院](https://github.com/doubleZ0108/3Months-Farewell-3Years/tree/master/Farewell-USTC)
 - [复旦大学计算机](https://github.com/doubleZ0108/3Months-Farewell-3Years/tree/master/Farewell-FuDan)
 
+
+
+## 保研系列文章
+
+- [2020计算机保研系列「一」 —— 写在即将填报系统前的回忆](https://www.doublez.site/blogs/3-months-farewell-3-years-1/)
+- [2020计算机保研系列「二」 —— 你真的想清楚保研了吗？](https://www.doublez.site/blogs/3-months-farewell-3-years-2/)
+- [2020计算机保研系列「三」 —— 准备篇(上)](https://www.doublez.site/blogs/3-months-farewell-3-years-3/)
+- [2020计算机保研系列「四」 —— 准备篇(下)](https://www.doublez.site/blogs/3-months-farewell-3-years-4/)
+- [简历：你在申的不只是学校，你在投的不只是工作](https://www.doublez.site/blogs/more-than-curriculum-vitae/)
+
+> **【手机阅读】**
+>
+> 微信公众号：济济一堂     <img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20201220175534.png" width="25%;" />
+>
+> - [2020计算机保研系列「一」 —— 写在即将填报系统前的回忆](https://mp.weixin.qq.com/s/TvebmrILTW7kLX39iHg8Ww)
+> - [2020计算机保研系列「二」 —— 你真的想清楚保研了吗？](https://mp.weixin.qq.com/s/AdSow5IqHKNrd0GHsqK49Q)
+> - [2020计算机保研系列「三」 —— 准备篇(上)](https://mp.weixin.qq.com/s/pnmZeEoV74Um7x-00zbq4A)
+> - [2020计算机保研系列「四」 —— 准备篇(下)](https://mp.weixin.qq.com/s/SzdsyGbrZ9uR1V6jLPNPEA)
+> - [简历：你在申的不只是学校，你在投的不只是工作](https://mp.weixin.qq.com/s/sTahgF7g4gXUDJ3mApyhgg)
+
