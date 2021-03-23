@@ -26,6 +26,7 @@
 - [2020计算机保研系列「三」 —— 准备篇(上)](https://www.doublez.site/blogs/3-months-farewell-3-years-3/)
 - [2020计算机保研系列「四」 —— 准备篇(下)](https://www.doublez.site/blogs/3-months-farewell-3-years-4/)
 - [简历：你在申的不只是学校，你在投的不只是工作](https://www.doublez.site/blogs/more-than-curriculum-vitae/)
+- 2020计算机保研系列「最终篇」 —— 我所参加过的高校考核
 
 > **【手机阅读】**
 >
@@ -36,4 +37,5 @@
 > - [2020计算机保研系列「三」 —— 准备篇(上)](https://mp.weixin.qq.com/s/pnmZeEoV74Um7x-00zbq4A)
 > - [2020计算机保研系列「四」 —— 准备篇(下)](https://mp.weixin.qq.com/s/SzdsyGbrZ9uR1V6jLPNPEA)
 > - [简历：你在申的不只是学校，你在投的不只是工作](https://mp.weixin.qq.com/s/sTahgF7g4gXUDJ3mApyhgg)
+> - 2020计算机保研系列「最终篇」 —— 我所参加过的高校考核
 

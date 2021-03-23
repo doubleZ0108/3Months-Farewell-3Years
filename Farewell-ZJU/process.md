@@ -16,7 +16,7 @@
 
 7. 获得优秀营员
 
-> 一下为我在夏令营实验室的科研内容，仅供参考：
+> 以下为我在夏令营实验室的科研内容，仅供参考：
 >
 > https://github.com/doubleZ0108/IDEA-Lab-Summer-Camp
 
