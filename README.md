@@ -42,7 +42,9 @@
 
 > **【手机阅读】**
 >
-> 微信公众号：济济一堂<img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210426211535.jpg" width="20%;" />
+> 微信公众号：济济一堂
+>
+> <img src="https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210426211535.jpg" width="20%;" />
 >
 > - [2020计算机保研系列「一」 —— 写在即将填报系统前的回忆](https://mp.weixin.qq.com/s/TvebmrILTW7kLX39iHg8Ww)
 > - [2020计算机保研系列「二」 —— 你真的想清楚保研了吗？](https://mp.weixin.qq.com/s/AdSow5IqHKNrd0GHsqK49Q)
