@@ -61,7 +61,7 @@
 - **毕业去向**：北京大学信息工程学院
 - **本科情况**：综合排名(1st / 212)，绩点排名(前2.8%)
 
-![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210616121310.png)
+![](https://doublez-site-bed.oss-cn-shanghai.aliyuncs.com/img/20210814213757.png)
 
 > Copyright © doubleZ Tongji Univ.
 >
